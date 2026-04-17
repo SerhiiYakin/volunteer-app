@@ -24,5 +24,5 @@ This project is split into multiple repositories to keep concerns separated:
 
 This project was developed as part of my Bachelor's degree requirements
 and focused on applying theoretical knowledge to a practical, real-world
-software system.
+software system. The system is ready to be deployed.
 ****
